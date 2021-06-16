@@ -29,6 +29,7 @@
 .logo_container img{
     display: table-cell;
     vertical-align: middle;
+	float: left;
 }
 
 .navigation{
