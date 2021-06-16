@@ -27,7 +27,6 @@
 }
 
 .logo_container img{
-    height: 100%;
     display: table-cell;
     vertical-align: middle;
 }
