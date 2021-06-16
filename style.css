@@ -38,7 +38,7 @@
 
 .navigation a{
     height: 100%;
-    display: table;
+    display: table-cell;
     float: left;
     padding: 0px 20px;
 }
