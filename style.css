@@ -70,6 +70,7 @@ body {
 	border-radius: 12px;
 	border: none;
 	float: right;
+	vertical-align: middle;
 }
 
 .forums {
@@ -86,6 +87,7 @@ body {
 	border-radius: 12px;
 	border: none;
 	float: right;
+	vertical-align: middle;
 }
 
 .staff {
@@ -102,6 +104,7 @@ body {
 	border-radius: 12px;
 	border: none;
 	float: right;
+	vertical-align: middle;
 }
 
 .discord {
@@ -118,6 +121,7 @@ body {
 	border-radius: 12px;
 	border: none;
 	float: right;
+	vertical-align: middle;
 }
 
 .home:hover {
