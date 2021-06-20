@@ -138,6 +138,7 @@ nav a:hover {
   
   .logo {
     grid-column: 2 / 3;
+    color: white
   }
   
   nav {
@@ -177,7 +178,7 @@ nav a:hover {
     content: '';
     display: block;
     height: 5px;
-    background: black;
+    background: white;
     position: absolute;
     top: -.75em;
     left: 0;
@@ -190,7 +191,3 @@ nav a:hover {
     transform: scale(1,1);
   }
 }
-
-
-
-
