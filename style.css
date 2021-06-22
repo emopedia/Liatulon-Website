@@ -30,7 +30,6 @@ body {
 
 header {
   background: var(--background);
-  opacity: 0.7
   text-align: center;
   position: fixed;
   z-index: 999;
@@ -138,12 +137,15 @@ nav a:hover {
   }
   
   .logo {
+		margin: 2px;
+		text-align: center;
     grid-column: 2 / 3;
     color: white
   }
+	
   
   nav {
-    // all: unset; /* this causes issues with Edge, since it's unsupported */
+    /* all: unset; this causes issues with Edge, since it's unsupported */
     
 
     position: relative;
