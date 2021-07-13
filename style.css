@@ -193,4 +193,12 @@ nav a:hover {
   nav a:hover::before {
     transform: scale(1,1);
   }
+	
+	.information {
+		border-radius: 10px;
+		color: white;
+		background-color: black;
+		opacity: .7;
+		width: 40%;
+	}
 }
