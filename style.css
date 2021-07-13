@@ -9,9 +9,12 @@
 }
 
 body {
-	background-color: #2F3136;
+	width: 100%;
+	height: 100%;
+	background-attachment: fixed;
+	background-image: linear-gradient(to bottom right,#002f4b,#dc4225);
+	opacity: .8;
 	margin: 0;
-	background: #222;
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 400;
 }
@@ -19,7 +22,7 @@ body {
 .content {
   height: 100vh;
   background-image: url(//unsplash.it/1000/1000);
-  background-color: #333;
+  background-color: #36393E;
   background-blend-mode: multiply;
   background-size: cover;
   display: grid;
@@ -86,7 +89,7 @@ nav {
   text-align: left;
   top: 100%;
   left: 0;
-  background: var(--background);
+  background: #36393E;
   width: 100%;
   transform: scale(1, 0);
   transform-origin: top;
